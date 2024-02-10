@@ -1,0 +1,6 @@
+name: BungeeChatKeeper
+version: '${project.version}'
+main: fr.iban.bungeechatkeeper.BungeeChatKeeperPlugin
+author: Iban
+depends:
+  - Protocolize
