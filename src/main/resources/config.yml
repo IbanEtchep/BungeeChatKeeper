@@ -1,0 +1,2 @@
+#How many messages should be saved to be replayed on server switch?
+max-message-count: 100
