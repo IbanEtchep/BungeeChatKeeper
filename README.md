@@ -1,3 +1,5 @@
+## No longer required since the chat persistence issue has been fixed in version 1.20.6
+
 # BungeeChatKeeper
 
 ### **Download on [Spigot](https://www.spigotmc.org/resources/bungeechatkeeper-dont-loose-your-chat-on-server-switch.115019/)**
